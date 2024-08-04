@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Lucas da Silva
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning how the technology world works
